@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modernes Design</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        async function fetchBestand() {
+            const response = await fetch("http://localhost:3000/bestand");
+            const bestand = await response.json();
+
+            document.querySelectorAll(".card").forEach((card) => {
+                const id = card.querySelector("p").innerText;
+                if (bestand[id]) {
+                    const info = document.createElement("p");
+                    info.innerText = `Verfügbar: ${bestand[id].quantity}`;
+                    card.appendChild(info);
+                }
+            });
+        }
+
+        async function sellCard(id) {
+            const response = await fetch("http://localhost:3000/verkauf", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ id })
+            });
+
+            if (response.ok) {
+                alert("Karte verkauft!");
+                window.location.reload();
+            } else {
+                alert("Karte nicht verfügbar!");
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", fetchBestand);
+    </script>
+
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="images/logo.jpg" alt="meinlogo">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html#home">Start</a></li>
+                <li><a href="karten-op01.html">OP01</a></li>
+                <li><a href="karten-op02.html">OP02</a></li>
+                <li><a href="karten-op03.html">OP03</a></li>
+                <li><a href="karten-op04.html">OP04</a></li>
+                <li><a href="karten-op05.html">OP05</a></li>
+                <li><a href="karten-op06.html">OP06</a></li>
+                <li><a href="karten-op07.html">OP07</a></li>
+                <li><a href="index.html#impressum">Impressum</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="section hero">
+        <h1> Willkommen in Bua`s Bandai Shop! </h1>
+        <p>Entdecke Karten zu One Piece TCG Kartenspiel und komplettiere somit deine Sammlung!</p>
+    </section>
+
+    <!-- About Section 
+    <section id="about" class="section">
+        <h2>Über Uns</h2>
+        <p>Wir gestalten einzigartige Webseiten, die begeistern und inspirieren.</p>
+    </section>
+    -->
+
+    <!-- OP Section -->
+    <section id="OP01" class="section">
+        <h2>OP01</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op01.html" class="button">
+                <strong>OP01</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP02" class="section">
+        <h2>OP02</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op02.html" class="button">
+                <strong>OP02</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP03" class="section">
+        <h2>OP03</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op03.html" class="button">
+                <strong>OP03</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP04" class="section">
+        <h2>OP04</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op04.html" class="button">
+                <strong>OP04</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP05" class="section">
+        <h2>OP05</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op05.html" class="button">
+                <strong>OP05</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP06" class="section"></a>
+        <h2>OP06</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op06.html" class="button">
+                <strong>OP06</strong></a> besitzen.
+        </p>
+    </section>
+
+    <section id="OP07" class="section">
+        <h2>OP07</h2>
+        <p>Alle Karten, welche wir noch von <a href="karten-op07.html" class="button">
+                <strong>OP07</strong></a> besitzen.
+        </p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="impressum" class="section">
+        <h2>Impressum</h2>
+        <p>Florian Bujupi<br>Waldspielplatz 35<br>82319 Starnberg<br>buasbandai@gmail.com<br>0176 46 17 04 84
+        </p>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Bua`s Bandai Shop. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+
+</html>
