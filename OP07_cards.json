@@ -1,0 +1,597 @@
+[
+    {
+        "id": "OP07-001",
+        "name": "Monkey D. Luffy",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-002",
+        "name": "Roronoa Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-003",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-004",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-005",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-006",
+        "name": "Tony Tony Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-007",
+        "name": "Nico Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-008",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-009",
+        "name": "Brook",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-010",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-011",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-012",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-013",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-014",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-015",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-016",
+        "name": "Bartholomew Kuma",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-017",
+        "name": "Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-018",
+        "name": "Enel",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-019",
+        "name": "Trafalgar D. Water Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-020",
+        "name": "Eustass Kid",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-021",
+        "name": "X Drake",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-022",
+        "name": "Killer",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-023",
+        "name": "Hawkins",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-024",
+        "name": "Dr. Vegapunk",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-025",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-026",
+        "name": "Charlotte Linlin",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-027",
+        "name": "Charlotte Katakuri",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-028",
+        "name": "Shiryu",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-029",
+        "name": "Cavendish",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-030",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-031",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-032",
+        "name": "Kizaru",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-033",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-034",
+        "name": "Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-035",
+        "name": "Whitebeard",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-036",
+        "name": "Shanks (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-037",
+        "name": "Luffy (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-038",
+        "name": "Crocodile (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-039",
+        "name": "Law (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-040",
+        "name": "Luffy (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-041",
+        "name": "Shanks (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-042",
+        "name": "Zoro (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-043",
+        "name": "Nami (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-044",
+        "name": "Franky (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-045",
+        "name": "Sanji (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-046",
+        "name": "Luffy (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-047",
+        "name": "Zoro (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-048",
+        "name": "Nami (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-049",
+        "name": "Sanji (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-050",
+        "name": "Jinbe (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-051",
+        "name": "Usopp (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-052",
+        "name": "Brook (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-053",
+        "name": "Robin (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-054",
+        "name": "Chopper (Straw Hat)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-055",
+        "name": "Luffy (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-056",
+        "name": "Shanks (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-057",
+        "name": "Sabo (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-058",
+        "name": "Ace (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-059",
+        "name": "Crocodile (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-060",
+        "name": "Trafalgar D. Water Law (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-061",
+        "name": "Charlotte Katakuri (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-062",
+        "name": "Monkey D. Garp",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-063",
+        "name": "Mihawk (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-064",
+        "name": "Whitebeard (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-065",
+        "name": "Akainu (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-066",
+        "name": "Sengoku (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-067",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-068",
+        "name": "Bartholomew Kuma",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-069",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-070",
+        "name": "Ace (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-071",
+        "name": "Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-072",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-073",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-074",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-075",
+        "name": "Shanks (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-076",
+        "name": "Crocodile (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-077",
+        "name": "Doflamingo (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-078",
+        "name": "Aokiji (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-079",
+        "name": "Rob Lucci",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-080",
+        "name": "Shanks (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-081",
+        "name": "Trafalgar D. Water Law (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-082",
+        "name": "Roronoa Zoro (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-083",
+        "name": "Monkey D. Luffy (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-084",
+        "name": "Sanji (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-085",
+        "name": "Nico Robin (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-086",
+        "name": "Chopper (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-087",
+        "name": "Nami (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-088",
+        "name": "Franky (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-089",
+        "name": "Brook (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-090",
+        "name": "Usopp (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-091",
+        "name": "Jinbe (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-092",
+        "name": "Cavendish (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-093",
+        "name": "Charlotte Linlin (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-094",
+        "name": "Charlotte Katakuri (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-095",
+        "name": "Sabo (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-096",
+        "name": "Trafalgar D. Water Law (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-097",
+        "name": "X Drake (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-098",
+        "name": "Killer (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-099",
+        "name": "Hawkins (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-100",
+        "name": "Bartholomew Kuma (Pirate)",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-101",
+        "name": "Rob Lucci",
+        "type": "Character"
+    },
+    {
+        "id": "OP07-102",
+        "name": "Shanks",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-103",
+        "name": "Whitebeard",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-104",
+        "name": "Trafalgar D. Water Law",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-105",
+        "name": "Crocodile",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-106",
+        "name": "Charlotte Katakuri",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-107",
+        "name": "Doflamingo",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-108",
+        "name": "Sabo",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-109",
+        "name": "Ace",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-110",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-111",
+        "name": "Dracule Mihawk",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-112",
+        "name": "Bartholomew Kuma",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-113",
+        "name": "Eustass Kid",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-114",
+        "name": "Shiryu",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-115",
+        "name": "Doflamingo (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-116",
+        "name": "Charlotte Linlin (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-117",
+        "name": "Cavendish (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-118",
+        "name": "Dracule Mihawk (Leader)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP07-119",
+        "name": "Shanks",
+        "type": "Leader"
+    }
+]

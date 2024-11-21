@@ -1,0 +1,467 @@
+[
+    {
+        "id": "OP05-001",
+        "name": "Luffy",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-002",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-003",
+        "name": "Enel",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-004",
+        "name": "God Enel",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-005",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-006",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-007",
+        "name": "Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-008",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-009",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-010",
+        "name": "Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-011",
+        "name": "Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-012",
+        "name": "Brook",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-013",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-014",
+        "name": "Kaido",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-015",
+        "name": "Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-016",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-017",
+        "name": "Shanks",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-018",
+        "name": "Whitebeard",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-019",
+        "name": "Blackbeard",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-020",
+        "name": "Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-021",
+        "name": "Jozu",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-022",
+        "name": "Marco",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-023",
+        "name": "Magellan",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-024",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-025",
+        "name": "Shanks (Parallel)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-026",
+        "name": "Garp",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-027",
+        "name": "Akainu",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-028",
+        "name": "Kizaru",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-029",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-030",
+        "name": "Enel (Parallel)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-031",
+        "name": "Sabo (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-032",
+        "name": "Crocodile (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-033",
+        "name": "Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-034",
+        "name": "Enel (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-035",
+        "name": "Luffy (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-036",
+        "name": "Nami (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-037",
+        "name": "Zoro (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-038",
+        "name": "Sanji (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-039",
+        "name": "Franky (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-040",
+        "name": "Chopper (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-041",
+        "name": "Robin (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-042",
+        "name": "Brook (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-043",
+        "name": "Jinbe (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-044",
+        "name": "Usopp (Parallel)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-045",
+        "name": "Crocodile (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-046",
+        "name": "Doflamingo (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-047",
+        "name": "Blackbeard (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-048",
+        "name": "Mihawk (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-049",
+        "name": "Whitebeard (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-050",
+        "name": "Shanks (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-051",
+        "name": "Kaido (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-052",
+        "name": "Garp (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-053",
+        "name": "Kizaru (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-054",
+        "name": "Aokiji (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-055",
+        "name": "Akainu (Special)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-056",
+        "name": "Enel (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-057",
+        "name": "Sabo (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-058",
+        "name": "Luffy (Parallel 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-059",
+        "name": "Blackbeard (Parallel 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-060",
+        "name": "Zoro (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-061",
+        "name": "Sanji (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-062",
+        "name": "Franky (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-063",
+        "name": "Chopper (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-064",
+        "name": "Robin (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-065",
+        "name": "Brook (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-066",
+        "name": "Jinbe (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-067",
+        "name": "Usopp (Special)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-068",
+        "name": "Crocodile (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-069",
+        "name": "Doflamingo (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-070",
+        "name": "Shanks (Special 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-071",
+        "name": "Mihawk (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-072",
+        "name": "Whitebeard (Special 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-073",
+        "name": "Kaido (Special 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-074",
+        "name": "Garp (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-075",
+        "name": "Kizaru (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-076",
+        "name": "Aokiji (Special 2)",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-077",
+        "name": "Akainu (Special 2)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-078",
+        "name": "Luffy (Special 3)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-079",
+        "name": "Blackbeard (Special 3)",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-080",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-085",
+        "name": "Bepo",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-090",
+        "name": "Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-100",
+        "name": "Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-110",
+        "name": "Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP05-111",
+        "name": "Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-112",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-113",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-114",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-115",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-116",
+        "name": "Vinsmoke Judge",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-117",
+        "name": "Vinsmoke Reiju",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-118",
+        "name": "Vinsmoke Niji",
+        "type": "Character"
+    },
+    {
+        "id": "OP05-119",
+        "name": "Vinsmoke Yonji",
+        "type": "Character"
+    }
+]
