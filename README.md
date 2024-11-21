@@ -1,0 +1,3 @@
+# BuasBandaiShop
+
+Eigener Shop - Kartenverkauf
