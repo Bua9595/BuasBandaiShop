@@ -1,0 +1,502 @@
+[
+    {
+        "id": "OP03-001",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP03-002",
+        "name": "Roronoa Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-003",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-004",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-005",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-006",
+        "name": "Tony Tony Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-007",
+        "name": "Nico Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-008",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-009",
+        "name": "Brook",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-010",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-011",
+        "name": "Portgas D. Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-012",
+        "name": "Gol D. Roger",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-013",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-014",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-015",
+        "name": "Trafalgar D. Water Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-016",
+        "name": "Eustass Kid",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-017",
+        "name": "Marshall D. Teach (Blackbeard)",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-018",
+        "name": "Edward Newgate (Whitebeard)",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-019",
+        "name": "Kaido",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-020",
+        "name": "Charlotte Linlin (Big Mom)",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-021",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-022",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-023",
+        "name": "Donquixote Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-024",
+        "name": "Gecko Moria",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-025",
+        "name": "Bartholomew Kuma",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-026",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-027",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-028",
+        "name": "Smoker",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-029",
+        "name": "Monkey D. Garp",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-030",
+        "name": "Koby",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-031",
+        "name": "Helmeppo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-032",
+        "name": "Magellan",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-033",
+        "name": "Hannyabal",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-034",
+        "name": "Shiki",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-035",
+        "name": "Enel",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-036",
+        "name": "Vinsmoke Judge",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-037",
+        "name": "Vinsmoke Reiju",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-038",
+        "name": "Vinsmoke Ichiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-039",
+        "name": "Vinsmoke Niji",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-040",
+        "name": "Vinsmoke Yonji",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-041",
+        "name": "Pedro",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-042",
+        "name": "Carrot",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-043",
+        "name": "Pekoms",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-044",
+        "name": "Tamago",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-045",
+        "name": "Charlotte Katakuri",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-046",
+        "name": "Charlotte Smoothie",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-047",
+        "name": "Charlotte Cracker",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-048",
+        "name": "Charlotte Perospero",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-049",
+        "name": "Charlotte Oven",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-050",
+        "name": "Charlotte Daifuku",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-051",
+        "name": "Bartholomew Kuma",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-052",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-053",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-054",
+        "name": "Koala",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-055",
+        "name": "Hack",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-056",
+        "name": "Fujitora",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-057",
+        "name": "Ryokugyu",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-058",
+        "name": "Tsuru",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-059",
+        "name": "Hina",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-060",
+        "name": "Vergo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-061",
+        "name": "Monet",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-062",
+        "name": "Caesar Clown",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-063",
+        "name": "Trebol",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-064",
+        "name": "Diamante",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-065",
+        "name": "Pica",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-066",
+        "name": "Senor Pink",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-067",
+        "name": "Sugar",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-068",
+        "name": "Baby 5",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-069",
+        "name": "Basil Hawkins",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-070",
+        "name": "Scratchmen Apoo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-071",
+        "name": "Killer",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-072",
+        "name": "X Drake",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-073",
+        "name": "Urouge",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-074",
+        "name": "Capone Bege",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-075",
+        "name": "Jewelry Bonney",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-076",
+        "name": "Rebecca",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-077",
+        "name": "Cavendish",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-078",
+        "name": "Bartolomeo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-079",
+        "name": "Sai",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-080",
+        "name": "Ideo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-081",
+        "name": "Orlumbus",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-082",
+        "name": "Hajrudin",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-083",
+        "name": "Leo",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-084",
+        "name": "Mansherry",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-085",
+        "name": "Bellamy",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-086",
+        "name": "Dellinger",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-087",
+        "name": "Lao G",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-088",
+        "name": "Gladius",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-089",
+        "name": "Machvise",
+        "type": "Character"
+    },
+    {
+        "id": "OP03-090",
+        "name": "Treasure Chest",
+        "type": "Event"
+    },
+    {
+        "id": "OP03-091",
+        "name": "Great Eruption",
+        "type": "Event"
+    },
+    {
+        "id": "OP03-092",
+        "name": "Meteor Volcano",
+        "type": "Event"
+    },
+    {
+        "id": "OP03-093",
+        "name": "Diable Jambe",
+        "type": "Event"
+    },
+    {
+        "id": "OP03-094",
+        "name": "Raging Fire",
+        "type": "Event"
+    },
+    {
+        "id": "OP03-095",
+        "name": "Thousand Sunny",
+        "type": "Stage"
+    },
+    {
+        "id": "OP03-096",
+        "name": "Marineford",
+        "type": "Stage"
+    },
+    {
+        "id": "OP03-097",
+        "name": "Sabaody Archipelago",
+        "type": "Stage"
+    },
+    {
+        "id": "OP03-098",
+        "name": "Onigashima",
+        "type": "Stage"
+    },
+    {
+        "id": "OP03-099",
+        "name": "Wano Country",
+        "type": "Stage"
+    },
+    {
+        "id": "OP03-100",
+        "name": "Dressrosa",
+        "type": "Stage"
+    }
+]

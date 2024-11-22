@@ -248,341 +248,340 @@
         "id": "OP06-050",
         "name": "Bellanotte",
         "type": "Character"
+    },
+    {
+        "id": "OP06-051",
+        "name": "Shanks' Crew",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-052",
+        "name": "Vinsmoke Judge",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-053",
+        "name": "Vinsmoke Reiju",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-054",
+        "name": "Vinsmoke Niji",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-055",
+        "name": "Vinsmoke Yonji",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-056",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-057",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-058",
+        "name": "Jozu",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-059",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-060",
+        "name": "Corazon",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-061",
+        "name": "Portgas D. Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-062",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-063",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-064",
+        "name": "Dr. Vegapunk",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-065",
+        "name": "Bartholomew Kuma",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-066",
+        "name": "Boa Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-067",
+        "name": "Blackbeard",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-068",
+        "name": "Trafalgar D. Water Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-069",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-070",
+        "name": "Roronoa Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-071",
+        "name": "Shanks",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-072",
+        "name": "Marco",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-073",
+        "name": "Kizaru",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-074",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-075",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-076",
+        "name": "Ivankov",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-077",
+        "name": "Magellan",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-078",
+        "name": "Shiryu",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-079",
+        "name": "Bellanotte",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-080",
+        "name": "Smoker",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-081",
+        "name": "Garp",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-082",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-083",
+        "name": "Kizaru",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-084",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-085",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-086",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-087",
+        "name": "Marco",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-088",
+        "name": "Barto",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-089",
+        "name": "Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-090",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-091",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-092",
+        "name": "Shanks",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-093",
+        "name": "Monkey D. Dragon",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-094",
+        "name": "Big Mom",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-095",
+        "name": "Kaido",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-096",
+        "name": "Big Mom",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-097",
+        "name": "Kaido",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-098",
+        "name": "Blackbeard",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-099",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-100",
+        "name": "Trafalgar D. Water Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-101",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-102",
+        "name": "Roronoa Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-103",
+        "name": "Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-104",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-105",
+        "name": "Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-106",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-107",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-108",
+        "name": "Smoker",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-109",
+        "name": "Barto",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-110",
+        "name": "Trafalgar Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-111",
+        "name": "Shanks",
+        "type": "Leader"
+    },
+    {
+        "id": "OP06-112",
+        "name": "Trafalgar D. Water Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-113",
+        "name": "Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-114",
+        "name": "Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-115",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-116",
+        "name": "Marco",
+        "type": "Character"
+    },
+    {
+        "id": "OP06-117",
+        "name": "Kaido",
+        "type": "Leader"
     }
-    [
-        {
-            "id": "OP06-051",
-            "name": "Shanks' Crew",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-052",
-            "name": "Vinsmoke Judge",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-053",
-            "name": "Vinsmoke Reiju",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-054",
-            "name": "Vinsmoke Niji",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-055",
-            "name": "Vinsmoke Yonji",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-056",
-            "name": "Dracule Mihawk",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-057",
-            "name": "Buggy",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-058",
-            "name": "Jozu",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-059",
-            "name": "Jinbe",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-060",
-            "name": "Corazon",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-061",
-            "name": "Portgas D. Ace",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-062",
-            "name": "Sabo",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-063",
-            "name": "Crocodile",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-064",
-            "name": "Dr. Vegapunk",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-065",
-            "name": "Bartholomew Kuma",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-066",
-            "name": "Boa Hancock",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-067",
-            "name": "Blackbeard",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-068",
-            "name": "Trafalgar D. Water Law",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-069",
-            "name": "Monkey D. Luffy",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-070",
-            "name": "Roronoa Zoro",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-071",
-            "name": "Shanks",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-072",
-            "name": "Marco",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-073",
-            "name": "Kizaru",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-074",
-            "name": "Aokiji",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-075",
-            "name": "Akainu",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-076",
-            "name": "Ivankov",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-077",
-            "name": "Magellan",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-078",
-            "name": "Shiryu",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-079",
-            "name": "Bellanotte",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-080",
-            "name": "Smoker",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-081",
-            "name": "Garp",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-082",
-            "name": "Sengoku",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-083",
-            "name": "Kizaru",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-084",
-            "name": "Aokiji",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-085",
-            "name": "Akainu",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-086",
-            "name": "Sengoku",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-087",
-            "name": "Marco",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-088",
-            "name": "Barto",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-089",
-            "name": "Law",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-090",
-            "name": "Sabo",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-091",
-            "name": "Dracule Mihawk",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-092",
-            "name": "Shanks",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-093",
-            "name": "Monkey D. Dragon",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-094",
-            "name": "Big Mom",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-095",
-            "name": "Kaido",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-096",
-            "name": "Big Mom",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-097",
-            "name": "Kaido",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-098",
-            "name": "Blackbeard",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-099",
-            "name": "Monkey D. Luffy",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-100",
-            "name": "Trafalgar D. Water Law",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-101",
-            "name": "Monkey D. Luffy",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-102",
-            "name": "Roronoa Zoro",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-103",
-            "name": "Luffy",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-104",
-            "name": "Shanks",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-105",
-            "name": "Mihawk",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-106",
-            "name": "Akainu",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-107",
-            "name": "Sengoku",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-108",
-            "name": "Smoker",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-109",
-            "name": "Barto",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-110",
-            "name": "Trafalgar Law",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-111",
-            "name": "Shanks",
-            "type": "Leader"
-        },
-        {
-            "id": "OP06-112",
-            "name": "Trafalgar D. Water Law",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-113",
-            "name": "Ace",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-114",
-            "name": "Zoro",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-115",
-            "name": "Shanks",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-116",
-            "name": "Marco",
-            "type": "Character"
-        },
-        {
-            "id": "OP06-117",
-            "name": "Kaido",
-            "type": "Leader"
-        }
-    ]
+]

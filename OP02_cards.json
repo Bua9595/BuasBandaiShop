@@ -1,0 +1,607 @@
+[
+    {
+        "id": "OP02-001",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP02-002",
+        "name": "Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-003",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-004",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-005",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-006",
+        "name": "Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-007",
+        "name": "Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-008",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-009",
+        "name": "Brook",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-010",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-011",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-012",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-013",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-014",
+        "name": "Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-015",
+        "name": "Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-016",
+        "name": "Enel",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-017",
+        "name": "Kaido",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-018",
+        "name": "Big Mom",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-019",
+        "name": "Whitebeard",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-020",
+        "name": "Blackbeard",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-021",
+        "name": "Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-022",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-023",
+        "name": "Marco",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-024",
+        "name": "Yamato",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-025",
+        "name": "Carrot",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-026",
+        "name": "Pedro",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-027",
+        "name": "Perospero",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-028",
+        "name": "Smoothie",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-029",
+        "name": "Katakuri",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-030",
+        "name": "Brûlée",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-031",
+        "name": "Pudding",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-032",
+        "name": "Oven",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-033",
+        "name": "Daifuku",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-034",
+        "name": "Tamago",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-035",
+        "name": "Pekoms",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-036",
+        "name": "Shirahoshi",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-037",
+        "name": "Vivi",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-038",
+        "name": "Rebecca",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-039",
+        "name": "Kyros",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-040",
+        "name": "Fujitora",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-041",
+        "name": "Sengoku",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-042",
+        "name": "Kizaru",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-043",
+        "name": "Akainu",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-044",
+        "name": "Aokiji",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-045",
+        "name": "Smoker",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-046",
+        "name": "Tashigi",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-047",
+        "name": "Hina",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-048",
+        "name": "Garp",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-049",
+        "name": "Koby",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-050",
+        "name": "Helmeppo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-051",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-052",
+        "name": "Shakky",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-053",
+        "name": "Rayleigh",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-054",
+        "name": "Hancock",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-055",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-056",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-057",
+        "name": "Doflamingo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-058",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-059",
+        "name": "Moria",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-060",
+        "name": "Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-061",
+        "name": "Kid",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-062",
+        "name": "Hawkins",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-063",
+        "name": "Apoo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-064",
+        "name": "Killer",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-065",
+        "name": "Bonney",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-066",
+        "name": "Drake",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-067",
+        "name": "Hina",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-068",
+        "name": "Zephyr",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-069",
+        "name": "Shuzo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-070",
+        "name": "Ain",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-071",
+        "name": "Binz",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-072",
+        "name": "Borsalino",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-073",
+        "name": "Vergo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-074",
+        "name": "Caesar Clown",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-075",
+        "name": "Monet",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-076",
+        "name": "Baby 5",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-077",
+        "name": "Buffalo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-078",
+        "name": "Pica",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-079",
+        "name": "Diamante",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-080",
+        "name": "Trebol",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-081",
+        "name": "Sugar",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-082",
+        "name": "Jora",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-083",
+        "name": "Senor Pink",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-084",
+        "name": "Lao G",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-085",
+        "name": "Gladius",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-086",
+        "name": "Machvise",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-087",
+        "name": "Dellinger",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-088",
+        "name": "Baby 5",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-089",
+        "name": "Rebecca",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-090",
+        "name": "Kyros",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-091",
+        "name": "Tank Lepanto",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-092",
+        "name": "Riku Dold III",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-093",
+        "name": "Violet",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-094",
+        "name": "Leo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-095",
+        "name": "Mansherry",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-096",
+        "name": "Gancho",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-097",
+        "name": "Hajrudin",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-098",
+        "name": "Ideo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-099",
+        "name": "Blue Gilly",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-100",
+        "name": "Orlumbus",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-101",
+        "name": "Elizabello II",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-102",
+        "name": "Abdullah and Jeet",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-103",
+        "name": "Bartolomeo",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-104",
+        "name": "Cavendish",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-105",
+        "name": "Sai",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-106",
+        "name": "Baby 5",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-107",
+        "name": "Bellamy",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-108",
+        "name": "Burgess",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-109",
+        "name": "Shiryu",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-110",
+        "name": "Van Augur",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-111",
+        "name": "Lafitte",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-112",
+        "name": "Doc Q",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-113",
+        "name": "Strongest Creature Kaido",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-114",
+        "name": "King",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-115",
+        "name": "Queen",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-116",
+        "name": "Jack",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-117",
+        "name": "Ulti",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-118",
+        "name": "Black Maria",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-119",
+        "name": "Sasaki",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-120",
+        "name": "Page One",
+        "type": "Character"
+    },
+    {
+        "id": "OP02-121",
+        "name": "Yamato",
+        "type": "Character"
+    }
+]

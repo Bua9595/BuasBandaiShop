@@ -1,0 +1,401 @@
+[
+    {
+        "id": "OP01-001",
+        "name": "Monkey D. Luffy",
+        "type": "Leader"
+    },
+    {
+        "id": "OP01-002",
+        "name": "Roronoa Zoro",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-003",
+        "name": "Nami",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-004",
+        "name": "Usopp",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-005",
+        "name": "Sanji",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-006",
+        "name": "Tony Tony Chopper",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-007",
+        "name": "Nico Robin",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-008",
+        "name": "Franky",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-009",
+        "name": "Brook",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-010",
+        "name": "Jinbe",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-011",
+        "name": "Shanks",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-012",
+        "name": "Portgas D. Ace",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-013",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-014",
+        "name": "Gol D. Roger",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-015",
+        "name": "Silvers Rayleigh",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-016",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-017",
+        "name": "Dracule Mihawk",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-018",
+        "name": "Trafalgar Law",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-019",
+        "name": "Eustass Kid",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-020",
+        "name": "Killer",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-021",
+        "name": "Basil Hawkins",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-022",
+        "name": "Scratchmen Apoo",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-023",
+        "name": "Urouge",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-024",
+        "name": "X Drake",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-025",
+        "name": "Kaido",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-026",
+        "name": "King",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-027",
+        "name": "Queen",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-028",
+        "name": "Jack",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-029",
+        "name": "Ulti",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-030",
+        "name": "Page One",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-031",
+        "name": "Black Maria",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-032",
+        "name": "Sasaki",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-033",
+        "name": "Yamato",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-034",
+        "name": "Big Mom",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-035",
+        "name": "Charlotte Katakuri",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-036",
+        "name": "Charlotte Cracker",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-037",
+        "name": "Charlotte Smoothie",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-038",
+        "name": "Perospero",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-039",
+        "name": "Mont-d'Or",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-040",
+        "name": "Pudding",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-041",
+        "name": "Pedro",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-042",
+        "name": "Carrot",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-043",
+        "name": "Wanda",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-044",
+        "name": "Nekomamushi",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-045",
+        "name": "Inuarashi",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-046",
+        "name": "Vivi",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-047",
+        "name": "Rebecca",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-048",
+        "name": "Shirahoshi",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-049",
+        "name": "Hatchan",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-050",
+        "name": "Marguerite",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-051",
+        "name": "Boa Sandersonia",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-052",
+        "name": "Boa Marigold",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-053",
+        "name": "Koala",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-054",
+        "name": "Sabo",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-055",
+        "name": "Koza",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-056",
+        "name": "Mr. 2 Bon Clay",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-057",
+        "name": "Crocodile",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-058",
+        "name": "Daz Bonez",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-059",
+        "name": "Miss All Sunday",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-060",
+        "name": "Buggy",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-061",
+        "name": "Alvida",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-062",
+        "name": "Cabaji",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-063",
+        "name": "Galdino",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-064",
+        "name": "Mr. 3",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-065",
+        "name": "Basil Hawkins",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-066",
+        "name": "X Drake",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-067",
+        "name": "Apoo",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-068",
+        "name": "Urouge",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-069",
+        "name": "Capone Bege",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-070",
+        "name": "Pedro",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-071",
+        "name": "Kaido",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-072",
+        "name": "Jack",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-073",
+        "name": "Queen",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-074",
+        "name": "King",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-075",
+        "name": "Ulti",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-076",
+        "name": "Page One",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-077",
+        "name": "Black Maria",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-078",
+        "name": "Who's Who",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-079",
+        "name": "Sasaki",
+        "type": "Character"
+    },
+    {
+        "id": "OP01-080",
+        "name": "Big Mom",
+        "type": "Character"
+    },
