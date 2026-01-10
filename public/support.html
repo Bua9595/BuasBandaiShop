@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Support</title>
+    <link rel="stylesheet" href="styles-modern.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="nav-links">
+                <a href="index.html" class="logo">
+                    <img src="images/logo.png" alt="Logo" />
+                </a>
+                <li><a href="karten-op01.html">OP01</a></li>
+                <li><a href="karten-op02.html">OP02</a></li>
+                <li><a href="karten-op03.html">OP03</a></li>
+                <li><a href="karten-op04.html">OP04</a></li>
+                <li><a href="karten-op05.html">OP05</a></li>
+                <li><a href="karten-op06.html">OP06</a></li>
+                <li><a href="karten-op07.html">OP07</a></li>
+                <li><a href="impressum.html">Impressum</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <h1>Support</h1>
+        <section class="form-card">
+            <form id="support-form">
+                <div class="form-row">
+                    <label for="support-email">E-Mail</label>
+                    <input type="email" id="support-email" required />
+                </div>
+                <div class="form-row">
+                    <label for="support-subject">Betreff</label>
+                    <input type="text" id="support-subject" required />
+                </div>
+                <div class="form-row">
+                    <label for="support-message">Nachricht</label>
+                    <textarea id="support-message" rows="6" required></textarea>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn primary">Anfrage senden</button>
+                    <span id="support-status" class="form-status" aria-live="polite"></span>
+                </div>
+            </form>
+            <p style="margin-top:10px;">Oder per E-Mail: <a href="mailto:support@example.com">support@example.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My One Piece TCG Collection. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
