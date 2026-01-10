@@ -1,13 +1,13 @@
-document.addEventListener('DOMContentLoaded', function () {
+﻿document.addEventListener('DOMContentLoaded', function () {
     // Add burger menu to navbar (top-right)
     const navbar = document.querySelector('.navbar');
     if (navbar && !navbar.querySelector('.burger')) {
         const burger = document.createElement('button');
         burger.className = 'burger';
-        burger.setAttribute('aria-label', 'Menü');
+        burger.setAttribute('aria-label', 'MenÃ¼');
         burger.setAttribute('aria-expanded', 'false');
         burger.type = 'button';
-        burger.textContent = '☰';
+        burger.textContent = ' CHF˜°';
 
         const panel = document.createElement('div');
         panel.className = 'menu-panel';
@@ -49,9 +49,9 @@ document.addEventListener('DOMContentLoaded', function () {
     overlay.className = 'hidden';
     overlay.innerHTML = `
         <div class="overlay-backdrop"></div>
-        <button class="overlay-close" aria-label="Schließen">×</button>
-        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte">‹</button>
-        <button class="overlay-nav overlay-next" aria-label="Nächste Karte">›</button>
+        <button class="overlay-close" aria-label="SchlieÃŸen">Ã—</button>
+        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte"> CHF CHF¹</button>
+        <button class="overlay-nav overlay-next" aria-label="NÃ¤chste Karte"> CHF CHFº</button>
     `;
     document.body.appendChild(overlay);
 
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const statusEl = document.getElementById('pwd-status');
         pwdForm.addEventListener('submit', (e) => {
             e.preventDefault();
-            if (newEl.value !== confirmEl.value) { statusEl.textContent = 'Passwörter stimmen nicht überein.'; return; }
+            if (newEl.value !== confirmEl.value) { statusEl.textContent = 'PasswÃ¶rter stimmen nicht Ã¼berein.'; return; }
             if (newEl.value.length < 6) { statusEl.textContent = 'Mindestens 6 Zeichen.'; return; }
             storage.set('account.password', { setAt: Date.now() });
             statusEl.textContent = 'Passwort aktualisiert'; setTimeout(() => statusEl.textContent = '', 2000);
@@ -335,7 +335,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const div = document.createElement('div');
             div.className = 'item';
             div.innerHTML = `<div class="meta">${a.name}, ${a.street}, ${a.zip} ${a.city}</div>
-                             <div class="actions"><button class="btn" data-del="${idx}">Löschen</button></div>`;
+                             <div class="actions"><button class="btn" data-del="${idx}">LÃ¶schen</button></div>`;
             list.appendChild(div);
         });
         list.querySelectorAll('button[data-del]').forEach(btn => {
@@ -371,8 +371,8 @@ document.addEventListener('DOMContentLoaded', function () {
         let orders = storage.get('orders');
         if (!orders) {
             orders = [
-                { id: 'ORD-1001', date: '2025-01-12', status: 'Versandt', total: '49,90€' },
-                { id: 'ORD-1000', date: '2024-12-05', status: 'In Bearbeitung', total: '19,90€' }
+                { id: 'ORD-1001', date: '2025-01-12', status: 'Versandt', total: '49,90 CHF‚¬' },
+                { id: 'ORD-1000', date: '2024-12-05', status: 'In Bearbeitung', total: '19,90 CHF‚¬' }
             ];
             storage.set('orders', orders);
         }
@@ -410,8 +410,9 @@ document.addEventListener('DOMContentLoaded', function () {
             tickets.push({ email, subject: decodeURIComponent(subject), message: decodeURIComponent(message), createdAt: Date.now() });
             storage.set('supportTickets', tickets);
             window.location.href = `mailto:support@example.com?subject=${subject}&body=${message}%0D%0A%0D%0AAbsender:%20${encodeURIComponent(email)}`;
-            if (status) { status.textContent = 'Anfrage vorbereitet (E-Mail wird geöffnet).'; setTimeout(() => status.textContent = '', 3000); }
+            if (status) { status.textContent = 'Anfrage vorbereitet (E-Mail wird geÃ¶ffnet).'; setTimeout(() => status.textContent = '', 3000); }
             supportForm.reset();
         });
     }
 });
+
