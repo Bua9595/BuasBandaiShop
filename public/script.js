@@ -161,20 +161,8 @@
             results = cardsData.filter(card => card.id.toLowerCase() === id.toLowerCase());
         } else if (onlyNum) {
             const number = onlyNum[1];
-            // From data
+            // Only show cards that actually exist in karten.json
             results = cardsData.filter(card => card.id.endsWith(`-${number}`));
-            // Ensure all OP01..OP07 are represented if likely available
-            const collections = ['OP01', 'OP02', 'OP03', 'OP04', 'OP05', 'OP06', 'OP07'];
-            const have = new Set(results.map(r => r.id.split('-')[0].toUpperCase()));
-            collections.forEach(col => {
-                const id = `${col}-${number}`;
-                if (!have.has(col)) {
-                    results.push({ id });
-                }
-            });
-            // Deduplicate by id
-            const seen = new Set();
-            results = results.filter(r => { if (seen.has(r.id)) return false; seen.add(r.id); return true; });
         } else {
             searchResults.innerHTML = '<p>Bitte Kartennummer eingeben (z.B. 123 oder OP01-123).</p>';
             return;
