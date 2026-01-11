@@ -50,8 +50,8 @@
     overlay.innerHTML = `
         <div class="overlay-backdrop"></div>
         <button class="overlay-close" aria-label="SchlieÃŸen">Ã—</button>
-        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte"> CHF CHF¹</button>
-        <button class="overlay-nav overlay-next" aria-label="NÃ¤chste Karte"> CHF CHFº</button>
+        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte">‹</button>
+        <button class="overlay-nav overlay-next" aria-label="NÃ¤chste Karte">›</button>
     `;
     document.body.appendChild(overlay);
 
@@ -371,8 +371,8 @@
         let orders = storage.get('orders');
         if (!orders) {
             orders = [
-                { id: 'ORD-1001', date: '2025-01-12', status: 'Versandt', total: '49,90 CHF‚¬' },
-                { id: 'ORD-1000', date: '2024-12-05', status: 'In Bearbeitung', total: '19,90 CHF‚¬' }
+                { id: 'ORD-1001', date: '2025-01-12', status: 'Versandt', total: '49,90 CHF' },
+                { id: 'ORD-1000', date: '2024-12-05', status: 'In Bearbeitung', total: '19,90 CHF' }
             ];
             storage.set('orders', orders);
         }
