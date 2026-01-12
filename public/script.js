@@ -268,6 +268,10 @@
 
     // Support inline onclick="toggleExpand(this)" in HTML (no-op wrapper)
     window.toggleExpand = function (el) {
+        // Don't zoom on home page collection cards
+        if (document.body.classList.contains('home')) {
+            return;
+        }
         const card = el && el.closest ? el.closest('.card') : null;
         if (card) {
             // Delegate to overlay-based enlarging
