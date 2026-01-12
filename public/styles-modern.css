@@ -519,7 +519,8 @@ section.collections .card {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    cursor: default;
+    cursor: pointer;
+    pointer-events: auto;
 }
 
 /* Collection cards - look like regular cards but no zoom */
