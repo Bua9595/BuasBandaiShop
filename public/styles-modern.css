@@ -518,7 +518,8 @@ section.collections .card {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 6px;
+    text-decoration: none;
+    cursor: default;
 }
 
 /* Startseite: Footer fix an Seitenende, nicht sticky */
