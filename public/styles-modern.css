@@ -1,0 +1,643 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #7e0505;
+    --secondary-color: #6c757d;
+    --background-color: #0b0b0b;
+    --text-color: #e8d906;
+    --accent-color: #f09709;
+    --border-radius: 8px;
+    --transition-speed: 0.3s;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color var(--transition-speed);
+}
+
+a:hover {
+    color: var(--accent-color);
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #222;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    padding: 1rem 2rem;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #eee;
+    min-height: 64px;
+    /* keep navbar compact so it doesn't cover content */
+    /* reserve space on the right for burger */
+    padding-right: 72px;
+}
+
+/*
+footer {
+    background-color: #222;
+    color: #eee;
+    text-align: center;
+    padding: 1rem 2rem;
+    margin-top: 3rem;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.3);
+    color: #eee;
+}
+*/
+
+footer:not(.pagination) {
+    background-color: #222;
+    color: #cabd0a;
+    text-align: center;
+    padding: 1rem 2rem;
+    margin-top: 0;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Space for header title above fixed navbar (Impressum) */
+header h1 {
+    margin: 7rem auto 1rem;
+    text-align: center;
+}
+
+.navbar .logo img {
+    height: 50px;
+    width: auto;
+    align-items: center;
+    display: flex;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    align-items: center;
+    color: #a90404;
+    flex-wrap: wrap;
+    /* allow searchbar to go to next line */
+}
+
+.navbar .nav-links a {
+    font-weight: 600;
+    color: #e8d906;
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+
+.navbar .nav-links a:hover {
+    background-color: var(--accent-color);
+    color: #121104;
+}
+
+/* Burger menu button (top-right) */
+.navbar .burger {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    color: #e8d906;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.navbar .menu-panel {
+    position: absolute;
+    right: 10px;
+    top: 60px;
+    background: #333;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+    padding: 8px 0;
+    display: none;
+    min-width: 200px;
+    z-index: 1200;
+}
+
+.navbar .menu-panel.open {
+    display: block;
+}
+
+.navbar .menu-panel a {
+    display: block;
+    padding: 10px 14px;
+    color: #eee;
+}
+
+.navbar .menu-panel a:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--accent-color);
+}
+
+.main-content {
+    padding: 6rem 2rem 2rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Generic form styling */
+.form-card {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--accent-color);
+    border-radius: 12px;
+    padding: 16px;
+    margin: 16px auto;
+    max-width: 800px;
+    text-align: left;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin: 10px 0;
+}
+
+.form-row label {
+    font-weight: 600;
+}
+
+.form-row input,
+.form-row textarea,
+.form-row select {
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #1e1e1e;
+    color: #eee;
+}
+
+.form-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 8px;
+}
+
+.btn {
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--accent-color);
+    background: rgba(0, 0, 0, 0.25);
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.btn.primary {
+    background: var(--accent-color);
+    color: #121104;
+    border-color: var(--accent-color);
+}
+
+.btn:hover {
+    filter: brightness(1.05);
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 16px;
+}
+
+.form-status {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.list {
+    margin-top: 10px;
+}
+
+.list .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 10px;
+    border-bottom: 1px dashed #444;
+}
+
+.list .item .meta {
+    opacity: 0.9;
+}
+
+.list .item .actions .btn {
+    margin-left: 8px;
+}
+
+/* Orders table */
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.orders-table th,
+.orders-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #444;
+    text-align: left;
+}
+
+.badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 999px;
+    font-size: 12px;
+}
+
+.badge.success {
+    background: #2e7d32;
+    color: #fff;
+}
+
+.badge.info {
+    background: #1565c0;
+    color: #fff;
+}
+
+.badge.warn {
+    background: #b26a00;
+    color: #fff;
+}
+
+.badge.pending {
+    background: #6c757d;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Center search bar block across pages */
+#search-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
+
+#search-container input#card-search-input {
+    width: 100% !important;
+    padding: 10px 12px !important;
+    font-size: 16px !important;
+}
+
+/* When searchbar is inside navbar */
+.navbar #search-container {
+    /* default (mobile/tablet): full width on own row */
+    flex: 1 0 100%;
+    order: 99;
+    margin: 8px auto 0;
+}
+
+/* Desktop: compact searchbar inline between last nav link and burger */
+@media (min-width: 992px) {
+    .navbar .nav-links {
+        flex-wrap: nowrap;
+    }
+
+    .navbar #search-container {
+        order: 0;
+        flex: 0 1 320px;
+        /* compact width */
+        margin: 0 60px 0 auto !important;
+        /* push right, keep clear of burger */
+        max-width: 320px;
+    }
+
+    .navbar #search-container input#card-search-input {
+        font-size: 14px !important;
+        padding: 6px 10px !important;
+        height: 36px;
+    }
+}
+
+/* Search results grid for multi-collection numeric queries */
+#search-results .search-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 12px;
+    margin-top: 10px;
+    color: #0c0c0b;
+}
+
+#search-results .search-grid .card {
+    width: 110px;
+}
+
+/* Karten-Container */
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 15px;
+    padding: 20px;
+    margin-top: 100px;
+    justify-items: center;
+    color: var(--text-color);
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    border: 3px solid #0c0c0b;
+    border-radius: 15px;
+    background: rgba(59, 63, 60, 0.434);
+}
+
+/* Einzelkarte */
+.card {
+    border: 1px solid #e8d906;
+    border-radius: 15px;
+    padding: 1px 0.1px 0px 0.1px;
+    background: rgba(59, 63, 60, 0.434);
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.75);
+    width: 100px;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+    position: relative;
+    margin: 0.1px 0.5px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+    padding: 1px 0.1px 0px 0.1px;
+}
+
+.card p {
+    margin: 1px 0 1px 0;
+    padding: 3px 0;
+    font-size: 14px;
+    color: var(--text-color);
+}
+
+/* Vergrößerte Karte bei Klick */
+.card.expanded {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: auto;
+    transform: translate(-50%, -50%) scale(1.8);
+    z-index: 10000;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    background: rgba(37, 36, 36, 0.944);
+    padding: 1px 0px;
+}
+
+/* Overlay for enlarged cards */
+#card-overlay.hidden {
+    display: none;
+}
+
+#card-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    /* below the expanded card so the card stays visible */
+}
+
+#card-overlay .overlay-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+#card-overlay .overlay-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#card-overlay .overlay-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: none;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 28px;
+    cursor: pointer;
+}
+
+#card-overlay .overlay-prev {
+    left: 16px;
+}
+
+#card-overlay .overlay-next {
+    right: 16px;
+}
+
+footer:not(.pagination) {
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: #222;
+    color: #cabd0a;
+    text-align: center;
+    padding: 0.6rem 1rem;
+    margin: 0;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.3);
+    z-index: 900;
+}
+
+/* Impressum layout centered */
+.impressum-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 6rem 2rem 2rem;
+    /* account for fixed navbar */
+    line-height: 1.6;
+}
+
+/* Startseite: zentrierte Vorschaubilder in Karten */
+.card .placeholder {
+    display: block;
+    width: 100%;
+    height: 100px;
+    /* einheitliche Box fr Vorschaubilder */
+    object-fit: contain;
+    object-position: center center;
+}
+
+/* Startseite: Karten-Inhalt mittig ausrichten */
+section.collections .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+/* Collection cards - look like regular cards but no zoom */
+.collection-card {
+    border: 1px solid #e8d906;
+    border-radius: 15px;
+    padding: 1px 0.1px 0px 0.1px;
+    background: rgba(59, 63, 60, 0.434);
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.75);
+    width: 100px;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+    position: relative;
+    margin: 0.1px 0.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.collection-card:hover {
+    transform: scale(1.05);
+}
+
+/* Startseite: Footer fix an Seitenende, nicht sticky */
+.home {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.home main,
+.home .main-content {
+    flex: 1 0 auto;
+}
+
+.home footer {
+    position: static;
+    /* override sticky */
+    margin-top: auto;
+    /* an das untere Seitenende schieben */
+}
+
+/* Startseite: Grid-Elemente mittig ausrichten */
+.home .cards-container {
+    /* Eine einzige, zentrierte Reihe auf der Startseite */
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    /* zentriert die gesamte Reihe */
+    align-items: flex-start;
+    gap: 15px;
+    overflow-x: auto;
+    /* falls der Platz knapp ist */
+    -webkit-overflow-scrolling: touch;
+}
+
+.home .cards-container .card img.placeholder {
+    display: block;
+    margin: 0 auto;
+    height: 120px;
+    width: 100%;
+    object-fit: contain;
+    object-position: center center;
+}
+
+/* Ensure non-placeholder images on home are centered too */
+.home .cards-container .card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Pagination footer styling */
+footer.pagination {
+    position: static;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 16px;
+    background: #222;
+    color: #eee;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.3);
+}
+
+footer.pagination a {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--accent-color);
+    color: var(--text-color);
+    background: rgba(0, 0, 0, 0.25);
+}
+
+footer.pagination a:hover {
+    background: rgba(240, 151, 9, 0.15);
+}
+
+footer.pagination a.active {
+    background: var(--accent-color);
+    color: #121104;
+    border-color: var(--accent-color);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex;
+        padding: 1rem;
+    }
+
+    .navbar .nav-links {
+        flex-direction: column;
+        gap: 0.5rem;
+
+    }
+}

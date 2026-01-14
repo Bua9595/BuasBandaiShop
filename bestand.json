@@ -1,3370 +1,2942 @@
 {
-    "Op01-002": {
+    "OP01-001": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 4.0,
+        "quantity": 1
     },
-    "Op01-003": {
+    "OP01-004": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-004": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op01-005": {
+    "OP01-005": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 4
     },
-    "Op01-006": {
+    "OP01-008": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op01-007": {
+    "OP01-010": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op01-008": {
+    "OP01-013": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-009": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-010": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-011": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-012": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-013": {
-        "description": "Unknown",
+        "price_chf": 2.5,
         "quantity": 2
     },
-    "Op01-014": {
+    "OP01-016": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-015": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-016": {
-        "description": "Unknown",
+        "price_chf": 5.0,
         "quantity": 3
     },
-    "Op01-017": {
+    "OP01-017": {
         "description": "Unknown",
+        "price_chf": 3.0,
         "quantity": 4
     },
-    "Op01-018": {
+    "OP01-026": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-019": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-020": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-021": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-022": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-023": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-024": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-025": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-026": {
-        "description": "Unknown",
+        "price_chf": 5.0,
         "quantity": 2
     },
-    "Op01-027": {
+    "OP01-035": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-028": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-030": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-031": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-032": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-033": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-034": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-035": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op01-036": {
+    "OP01-041": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-037": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-038": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-039": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-040": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-041": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op01-042": {
+    "OP01-042": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op01-043": {
+    "OP01-046": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-046": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op01-047": {
+    "OP01-049": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-049": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 4
     },
-    "Op01-050": {
+    "OP01-050": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op01-051": {
+    "OP01-054": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 4
     },
-    "Op01-052": {
+    "OP01-058": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-053": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-054": {
-        "description": "Unknown",
+        "price_chf": 4.0,
         "quantity": 3
     },
-    "Op01-055": {
+    "OP01-063": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op01-056": {
+    "OP01-065": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op01-057": {
+    "OP01-068": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 2
     },
-    "Op01-058": {
+    "OP01-069": {
         "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP01-071": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP01-073": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP01-074": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP01-075": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 1
+    },
+    "OP01-076": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 1
+    },
+    "OP01-079": {
+        "description": "Unknown",
+        "price_chf": 1.6,
+        "quantity": 4
+    },
+    "OP01-086": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP01-093": {
+        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op01-059": {
+    "OP01-097": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-063": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-064": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-067": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-068": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op01-069": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-071": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op01-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-073": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-074": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op01-075": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-076": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-078": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-079": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-080": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-081": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-082": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-083": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-084": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-085": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-086": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-087": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-088": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-089": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-090": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-091": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-092": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-093": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op01-094": {
+    "OP01-102": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 4
     },
-    "Op01-095": {
+    "OP01-107": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op01-096": {
+    "OP01-111": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 4
     },
-    "Op01-097": {
+    "OP01-112": {
         "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP01-114": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 2
+    },
+    "OP01-119": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 1
+    },
+    "OP02-007": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 2
+    },
+    "OP02-008": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-009": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 2
+    },
+    "OP02-010": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-011": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 2
+    },
+    "OP02-012": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-017": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP02-018": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 2
+    },
+    "OP02-021": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP02-022": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-023": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-027": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-028": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-029": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP02-031": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-032": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 1
+    },
+    "OP02-033": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 1
+    },
+    "OP02-034": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP02-035": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-038": {
+        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 3
     },
-    "Op01-098": {
+    "OP02-039": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op01-099": {
+    "OP02-040": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-100": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-101": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-102": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-103": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-104": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-105": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-106": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-107": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-108": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-109": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-110": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-111": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-112": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op01-113": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-114": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 2
     },
-    "Op01-115": {
+    "OP02-041": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op01-116": {
+    "OP02-042": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op01-117": {
+    "OP02-043": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op01-118": {
+    "OP02-044": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-119": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-120": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op01-121": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-002": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-003": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-004": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-005": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-006": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-007": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op02-008": {
+    "OP02-045": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-009": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op02-010": {
+    "OP02-046": {
         "description": "Unknown",
-        "quantity": 2
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-011": {
+    "OP02-047": {
         "description": "Unknown",
-        "quantity": 2
-    },
-    "Op02-012": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-013": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-014": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-015": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-016": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-017": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op02-018": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op02-019": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-020": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-021": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-022": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-023": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-024": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-025": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-026": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-027": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-028": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-030": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-031": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-032": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-033": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-034": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-035": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-036": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-037": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-038": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-039": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-040": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-041": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-042": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-043": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-046": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-047": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-049": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-050": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-051": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-052": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-053": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-054": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-055": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-056": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-057": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-058": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-059": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-063": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-064": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-067": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-069": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-071": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-073": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-075": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op02-076": {
+    "OP02-048": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op02-077": {
+    "OP02-049": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 1
     },
-    "Op02-078": {
+    "OP02-050": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 3
     },
-    "Op02-079": {
+    "OP02-053": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 2
     },
-    "Op02-080": {
+    "OP02-055": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-081": {
+    "OP02-056": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-057": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-058": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-060": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-063": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-064": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP02-065": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP02-068": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-069": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-071": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-073": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-074": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP02-075": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP02-076": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-077": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP02-078": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-080": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP02-081": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op02-082": {
+    "OP02-082": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-083": {
+    "OP02-083": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 2
     },
-    "Op02-084": {
+    "OP02-084": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 3
     },
-    "Op02-085": {
+    "OP02-086": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-086": {
+    "OP02-087": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 2
     },
-    "Op02-087": {
+    "OP02-088": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op02-088": {
+    "OP02-089": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op02-089": {
+    "OP02-090": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op02-090": {
+    "OP02-091": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-091": {
-        "description": "Unknown",
+        "price_chf": 1.75,
         "quantity": 4
     },
-    "Op02-092": {
+    "OP02-092": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op02-093": {
+    "OP02-093": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-094": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-095": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-096": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-097": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-098": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op02-099": {
+    "OP02-097": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-100": {
+    "OP02-098": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-101": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 2
     },
-    "Op02-102": {
+    "OP02-100": {
         "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP02-101": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op02-103": {
+    "OP02-102": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 2
     },
-    "Op02-104": {
+    "OP02-103": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-105": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-106": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-107": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-108": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op02-109": {
+    "OP02-107": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP02-108": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op02-110": {
+    "OP02-109": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op02-111": {
+    "OP02-110": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 2
     },
-    "Op02-112": {
+    "OP02-111": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op02-113": {
+    "OP02-112": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op02-114": {
+    "OP02-115": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op02-115": {
+    "OP02-116": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-116": {
+    "OP02-119": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op02-117": {
+    "OP03-001": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 1
     },
-    "Op02-118": {
+    "OP03-002": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op02-119": {
+    "OP03-003": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op02-120": {
+    "OP03-004": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op02-121": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-002": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-003": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-004": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op03-005": {
+    "OP03-005": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.5,
+        "quantity": 1
     },
-    "Op03-006": {
+    "OP03-006": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 8
     },
-    "Op03-007": {
+    "OP03-007": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op03-008": {
+    "OP03-008": {
         "description": "Unknown",
+        "price_chf": 5.0,
         "quantity": 4
     },
-    "Op03-009": {
+    "OP03-009": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op03-010": {
+    "OP03-010": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 5
     },
-    "Op03-011": {
+    "OP03-011": {
         "description": "Unknown",
+        "price_chf": 2.5,
         "quantity": 2
     },
-    "Op03-012": {
+    "OP03-012": {
         "description": "Unknown",
+        "price_chf": 3.0,
         "quantity": 2
     },
-    "Op03-013": {
+    "OP03-014": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-014": {
-        "description": "Unknown",
+        "price_chf": 3.0,
         "quantity": 2
     },
-    "Op03-015": {
+    "OP03-015": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op03-016": {
+    "OP03-016": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op03-017": {
+    "OP03-017": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op03-018": {
+    "OP03-018": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op03-019": {
+    "OP03-019": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op03-020": {
+    "OP03-020": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op03-021": {
+    "OP03-022": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 1
     },
-    "Op03-022": {
+    "OP03-023": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-023": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 5
     },
-    "Op03-024": {
+    "OP03-024": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op03-025": {
+    "OP03-026": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-026": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-027": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-028": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-030": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-031": {
-        "description": "Unknown",
-        "quantity": 6
-    },
-    "Op03-032": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op03-033": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-034": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-035": {
-        "description": "Unknown",
-        "quantity": 6
-    },
-    "Op03-036": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-037": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op03-038": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-039": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-040": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-041": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-042": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-043": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-046": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-047": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-049": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-050": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-051": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-052": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-053": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-054": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-055": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-056": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-057": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-058": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-059": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-063": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-064": {
-        "description": "Unknown",
-        "quantity": 7
-    },
-    "Op03-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-067": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-069": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op03-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-071": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-073": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op03-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-075": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-076": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-078": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-079": {
-        "description": "Unknown",
+        "price_chf": 2.5,
         "quantity": 3
     },
-    "Op03-080": {
+    "OP03-027": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 4
     },
-    "Op03-081": {
+    "OP03-028": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op03-082": {
+    "OP03-029": {
         "description": "Unknown",
-        "quantity": 5
+        "price_chf": 2.5,
+        "quantity": 1
     },
-    "Op03-083": {
+    "OP03-031": {
         "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-084": {
-        "description": "Unknown",
-        "quantity": 7
-    },
-    "Op03-085": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op03-086": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-087": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 6
     },
-    "Op03-088": {
+    "OP03-032": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.5,
+        "quantity": 5
     },
-    "Op03-089": {
+    "OP03-033": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-090": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-091": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-092": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-093": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-094": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-095": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op03-096": {
+    "OP03-034": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.5,
+        "quantity": 3
     },
-    "Op03-097": {
+    "OP03-035": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 6
     },
-    "Op03-098": {
+    "OP03-036": {
         "description": "Unknown",
-        "quantity": 11
+        "price_chf": 1.5,
+        "quantity": 4
     },
-    "Op03-099": {
+    "OP03-037": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 5
     },
-    "Op03-100": {
+    "OP03-038": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP03-039": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 3
+    },
+    "OP03-041": {
+        "description": "Unknown",
+        "price_chf": 4.5,
+        "quantity": 1
+    },
+    "OP03-042": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP03-043": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-044": {
+        "description": "Unknown",
+        "price_chf": 3.5,
+        "quantity": 1
+    },
+    "OP03-045": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP03-046": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP03-047": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP03-048": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP03-049": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-050": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-051": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP03-052": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 6
+    },
+    "OP03-053": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP03-054": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP03-055": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 4
+    },
+    "OP03-057": {
+        "description": "Unknown",
+        "price_chf": 6.0,
+        "quantity": 2
+    },
+    "OP03-059": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-061": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP03-062": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP03-063": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-064": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 7
+    },
+    "OP03-065": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP03-066": {
+        "description": "Unknown",
+        "price_chf": 5.0,
+        "quantity": 1
+    },
+    "OP03-067": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP03-068": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP03-069": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP03-070": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP03-071": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP03-072": {
+        "description": "Unknown",
+        "price_chf": 3.5,
+        "quantity": 2
+    },
+    "OP03-073": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP03-074": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP03-075": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-076": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP03-077": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP03-078": {
+        "description": "Unknown",
+        "price_chf": 10.0,
+        "quantity": 1
+    },
+    "OP03-079": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP03-081": {
+        "description": "Unknown",
+        "price_chf": 10.0,
+        "quantity": 2
+    },
+    "OP03-082": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP03-083": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP03-084": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 7
+    },
+    "OP03-085": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP03-086": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP03-087": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 6
+    },
+    "OP03-088": {
+        "description": "Unknown",
+        "price_chf": 1.75,
+        "quantity": 2
+    },
+    "OP03-089": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 1
+    },
+    "OP03-090": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP03-091": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP03-092": {
+        "description": "Unknown",
+        "price_chf": 3.5,
+        "quantity": 1
+    },
+    "OP03-093": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 3
+    },
+    "OP03-094": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP03-095": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP03-096": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP03-097": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP03-098": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 9
+    },
+    "OP03-099": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP03-100": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 8
     },
-    "Op03-101": {
+    "OP03-101": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 6
     },
-    "Op03-102": {
+    "OP03-102": {
         "description": "Unknown",
+        "price_chf": 3.0,
         "quantity": 2
     },
-    "Op03-103": {
+    "OP03-103": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 7
     },
-    "Op03-104": {
+    "OP03-104": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op03-105": {
+    "OP03-105": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 3
     },
-    "Op03-106": {
+    "OP03-106": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 8
     },
-    "Op03-107": {
+    "OP03-107": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 6
     },
-    "Op03-108": {
+    "OP03-108": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op03-109": {
+    "OP03-109": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 5
     },
-    "Op03-110": {
+    "OP03-110": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 4
     },
-    "Op03-111": {
+    "OP03-111": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op03-112": {
+    "OP03-112": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op03-113": {
+    "OP03-113": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.5,
+        "quantity": 1
     },
-    "Op03-114": {
+    "OP03-114": {
         "description": "Unknown",
+        "price_chf": 15.0,
         "quantity": 3
     },
-    "Op03-115": {
+    "OP03-115": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op03-116": {
+    "OP03-116": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op03-117": {
+    "OP03-117": {
         "description": "Unknown",
+        "price_chf": 4.0,
         "quantity": 3
     },
-    "Op03-118": {
+    "OP03-118": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op03-119": {
-        "description": "Unknown",
+        "price_chf": 3.0,
         "quantity": 2
     },
-    "Op03-120": {
+    "OP03-119": {
         "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP03-120": {
+        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 6
     },
-    "Op03-121": {
+    "OP03-121": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 8
     },
-    "Op03-122": {
+    "OP03-123": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 25.0,
+        "quantity": 1
     },
-    "Op03-123": {
+    "OP04-005": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op04-002": {
+    "OP04-006": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-003": {
+    "OP04-011": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-004": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-005": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-006": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-007": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-008": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-009": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-010": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-011": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op04-012": {
+    "OP04-012": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-013": {
+    "OP04-018": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-014": {
+    "OP04-019": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-015": {
+    "OP04-020": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-016": {
+    "OP04-021": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-017": {
+    "OP04-024": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-018": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-019": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-020": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-021": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-022": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-023": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-024": {
-        "description": "Unknown",
+        "price_chf": 5.0,
         "quantity": 2
     },
-    "Op04-025": {
+    "OP04-025": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op04-026": {
+    "OP04-029": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-027": {
+    "OP04-031": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-028": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-030": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-031": {
-        "description": "Unknown",
+        "price_chf": 4.0,
         "quantity": 3
     },
-    "Op04-032": {
+    "OP04-033": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-033": {
+    "OP04-035": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 2
     },
-    "Op04-034": {
+    "OP04-036": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-035": {
+    "OP04-040": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-036": {
+    "OP04-048": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op04-037": {
+    "OP04-049": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op04-038": {
+    "OP04-050": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-039": {
+    "OP04-052": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-040": {
+    "OP04-054": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op04-041": {
+    "OP04-058": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-042": {
+    "OP04-059": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-043": {
+    "OP04-060": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 1
     },
-    "Op04-044": {
+    "OP04-061": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-045": {
+    "OP04-062": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op04-046": {
+    "OP04-064": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 5.0,
+        "quantity": 1
     },
-    "Op04-047": {
+    "OP04-065": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 2
     },
-    "Op04-048": {
+    "OP04-066": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-049": {
+    "OP04-067": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-050": {
+    "OP04-068": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-051": {
+    "OP04-069": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-052": {
+    "OP04-071": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-053": {
+    "OP04-073": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-054": {
+    "OP04-075": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-055": {
+    "OP04-076": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-056": {
+    "OP04-083": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 30.0,
+        "quantity": 1
     },
-    "Op04-057": {
+    "OP04-087": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-058": {
+    "OP04-090": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-059": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-063": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-064": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-067": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-069": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-071": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-073": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-075": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-076": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-078": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-079": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-080": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-081": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-082": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-083": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-084": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-085": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-086": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-087": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-088": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-089": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-090": {
-        "description": "Unknown",
+        "price_chf": 4.0,
         "quantity": 5
     },
-    "Op04-091": {
+    "OP04-097": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-092": {
+    "OP04-099": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-093": {
+    "OP04-100": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 5.0,
+        "quantity": 1
     },
-    "Op04-094": {
+    "OP04-101": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-095": {
+    "OP04-104": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-096": {
+    "OP04-105": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-097": {
+    "OP04-106": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op04-098": {
+    "OP04-107": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-099": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-100": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-101": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-102": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-103": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-104": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-105": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-106": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-107": {
-        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op04-108": {
+    "OP04-108": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op04-109": {
+    "OP04-109": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op04-110": {
+    "OP04-110": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 1
     },
-    "Op04-111": {
+    "OP04-112": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-112": {
+    "OP04-113": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-113": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op04-114": {
+    "OP04-116": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-115": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op04-116": {
-        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op04-117": {
+    "OP04-118": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 8.0,
+        "quantity": 1
     },
-    "Op04-118": {
+    "OP05-001": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op04-119": {
+    "OP05-002": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op05-002": {
+    "OP05-003": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op05-003": {
+    "OP05-004": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 1
     },
-    "Op05-004": {
+    "OP05-005": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-005": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op05-006": {
+    "OP05-006": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 5.0,
+        "quantity": 1
     },
-    "Op05-007": {
+    "OP05-007": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 1
     },
-    "Op05-008": {
+    "OP05-008": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 2
     },
-    "Op05-009": {
+    "OP05-009": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 3
     },
-    "Op05-010": {
+    "OP05-010": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op05-011": {
+    "OP05-011": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-012": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-013": {
-        "description": "Unknown",
-        "quantity": 6
-    },
-    "Op05-014": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-015": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-016": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-017": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-018": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-019": {
-        "description": "Unknown",
-        "quantity": 6
-    },
-    "Op05-020": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-021": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-022": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-023": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-024": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-025": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-026": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-027": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-028": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-030": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-031": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-032": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-033": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-034": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-035": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-036": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-037": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-038": {
-        "description": "Unknown",
-        "quantity": 6
-    },
-    "Op05-039": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-040": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-041": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-042": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-043": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-046": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-047": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-049": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-050": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op05-051": {
+    "OP05-012": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-052": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-053": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-054": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-055": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op05-056": {
+    "OP05-013": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-057": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-058": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-059": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-063": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-064": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-067": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-069": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-071": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 6
     },
-    "Op05-072": {
+    "OP05-014": {
         "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-073": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-075": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-076": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-078": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-079": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-080": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-081": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-082": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op05-083": {
+    "OP05-015": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 5
     },
-    "Op05-084": {
+    "OP05-016": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.0,
+        "quantity": 4
     },
-    "Op05-085": {
+    "OP05-017": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 5
     },
-    "Op05-086": {
+    "OP05-018": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-019": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 6
+    },
+    "OP05-020": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-021": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-023": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-024": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-025": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-026": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 5
+    },
+    "OP05-027": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-028": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-030": {
+        "description": "Unknown",
+        "price_chf": 0.5,
+        "quantity": 4
+    },
+    "OP05-031": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-033": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-034": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-035": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-036": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-037": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 7
     },
-    "Op05-087": {
+    "OP05-038": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-088": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-089": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-090": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-091": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-092": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-093": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-094": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 6
     },
-    "Op05-095": {
+    "OP05-039": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op05-096": {
+    "OP05-040": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-097": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-098": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-099": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op05-100": {
+    "OP05-041": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op05-101": {
+    "OP05-042": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op05-102": {
+    "OP05-043": {
         "description": "Unknown",
-        "quantity": 4
+        "price_chf": 5.0,
+        "quantity": 1
     },
-    "Op05-103": {
+    "OP05-044": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 5
     },
-    "Op05-104": {
+    "OP05-045": {
         "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op05-105": {
+    "OP05-046": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-047": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-048": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-049": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-050": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-052": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-053": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-054": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-055": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 5
+    },
+    "OP05-056": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-057": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP05-058": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-059": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP05-060": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-061": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-062": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-063": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-064": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP05-065": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-066": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-067": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-068": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-070": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-071": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 6
+    },
+    "OP05-072": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-073": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-074": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-075": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-076": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP05-077": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP05-078": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-079": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-080": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-082": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-083": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-084": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-086": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 7
     },
-    "Op05-106": {
+    "OP05-087": {
         "description": "Unknown",
-        "quantity": 4
-    },
-    "Op05-107": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op05-108": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op05-109": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op05-110": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op05-111": {
+    "OP05-088": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 5
     },
-    "Op05-112": {
+    "OP05-089": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP05-090": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op05-113": {
+    "OP05-091": {
         "description": "Unknown",
-        "quantity": 4
+        "price_chf": 5.0,
+        "quantity": 1
     },
-    "Op05-114": {
+    "OP05-094": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-115": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 6
     },
-    "Op05-116": {
+    "OP05-095": {
         "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-096": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-097": {
+        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 3
     },
-    "Op05-117": {
+    "OP05-098": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 2
     },
-    "Op05-118": {
+    "OP05-099": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-119": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-120": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-121": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-122": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op05-123": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-002": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-003": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-004": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op06-005": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-006": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-007": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-008": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-009": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-010": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-011": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-012": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-013": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-014": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-015": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-016": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-017": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-018": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-019": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-020": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-021": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-022": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-023": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-024": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-025": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-026": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-027": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-028": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op06-029": {
+    "OP05-100": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-030": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-031": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-032": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-033": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-034": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-035": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-036": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-037": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-038": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-039": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-040": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-041": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-042": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-043": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-046": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-047": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-049": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-050": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-051": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-052": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-053": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-054": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-055": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-056": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-057": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op06-058": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-059": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-062": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-063": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-064": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-066": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-067": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-069": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-071": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-073": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-075": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-076": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-078": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-079": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-080": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-081": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-082": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-083": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-084": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-085": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-086": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-087": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-088": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-089": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-090": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-091": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-092": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-093": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-094": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-095": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-096": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-097": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-098": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-099": {
-        "description": "Unknown",
+        "price_chf": 5.0,
         "quantity": 2
     },
-    "Op06-100": {
+    "OP05-101": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-101": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-102": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op06-103": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-104": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-105": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-106": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-107": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-108": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op06-109": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-110": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op06-111": {
-        "description": "Unknown",
-        "quantity": 2
-    },
-    "Op06-112": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-113": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-114": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-115": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-116": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-117": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op06-118": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-119": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-120": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-121": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-122": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op06-123": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-002": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op07-003": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-004": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op07-005": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op07-006": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-007": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-008": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-009": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-010": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-011": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-012": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-013": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-014": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-015": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-016": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-017": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-018": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-019": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-020": {
-        "description": "Unknown",
-        "quantity": 3
-    },
-    "Op07-021": {
-        "description": "Unknown",
+        "price_chf": 1.8,
         "quantity": 6
     },
-    "Op07-022": {
+    "OP05-102": {
         "description": "Unknown",
+        "price_chf": 4.0,
+        "quantity": 4
+    },
+    "OP05-103": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-104": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-023": {
+    "OP05-105": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 2.0,
+        "quantity": 7
     },
-    "Op07-024": {
+    "OP05-106": {
         "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 4
     },
-    "Op07-025": {
+    "OP05-107": {
         "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-026": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-027": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-028": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-029": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-030": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-031": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-032": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op07-033": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-034": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-035": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-036": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-037": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-038": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-039": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-040": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-041": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-042": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-043": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-044": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-045": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-046": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-047": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-048": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-049": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-050": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-051": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-052": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-053": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-054": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op07-055": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-056": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-057": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-058": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-059": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-060": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-061": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-062": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-063": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-064": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-065": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-066": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-067": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-068": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-069": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-070": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-071": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-072": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-073": {
-        "description": "Unknown",
-        "quantity": 5
-    },
-    "Op07-074": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-075": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-076": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-077": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-078": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-079": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-080": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-081": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-082": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-083": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-084": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-085": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-086": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-087": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-088": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-089": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-090": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-091": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-092": {
+    "OP05-108": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 3.0,
+        "quantity": 5
     },
-    "Op07-093": {
+    "OP05-109": {
         "description": "Unknown",
-        "quantity": 4
+        "price_chf": 1.5,
+        "quantity": 3
     },
-    "Op07-094": {
+    "OP05-110": {
         "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-095": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-096": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-097": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-098": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-099": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-100": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-101": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op07-102": {
+    "OP05-111": {
         "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP05-112": {
+        "description": "Unknown",
+        "price_chf": 2.0,
         "quantity": 3
     },
-    "Op07-103": {
+    "OP05-113": {
         "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 4
     },
-    "Op07-104": {
+    "OP05-114": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP05-115": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 6
+    },
+    "OP05-116": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP05-117": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 2
     },
-    "Op07-105": {
+    "OP05-119": {
         "description": "Unknown",
+        "price_chf": 25.0,
+        "quantity": 1
+    },
+    "OP06-002": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-106": {
+    "OP06-003": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-004": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP06-005": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-006": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-008": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-107": {
+    "OP06-012": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-013": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-014": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-108": {
+    "OP06-015": {
         "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-109": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-110": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-111": {
-        "description": "Unknown",
-        "quantity": 0
-    },
-    "Op07-112": {
-        "description": "Unknown",
-        "quantity": 4
-    },
-    "Op07-113": {
-        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 3
     },
-    "Op07-114": {
+    "OP06-016": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 1
     },
-    "Op07-115": {
+    "OP06-017": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-019": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-023": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-025": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-026": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-027": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-028": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-029": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-030": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-031": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-032": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP06-033": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-034": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-036": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-037": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-038": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-040": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-041": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-045": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-047": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-048": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-049": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-050": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP06-052": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-053": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-054": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-055": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-056": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-057": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op07-116": {
+    "OP06-059": {
         "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-060": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-061": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-063": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-064": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-066": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-067": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-068": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-070": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-071": {
+        "description": "Unknown",
+        "price_chf": 2.4,
+        "quantity": 2
+    },
+    "OP06-072": {
+        "description": "Unknown",
+        "price_chf": 1.5,
         "quantity": 4
     },
-    "Op07-117": {
+    "OP06-073": {
         "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-074": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-075": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-076": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-079": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP06-082": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-084": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-085": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-087": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-088": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP06-089": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP06-090": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-091": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP06-092": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP06-094": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-095": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-096": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-098": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-099": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-101": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP06-102": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP06-103": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP06-105": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 3
+    },
+    "OP06-108": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP06-109": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 1
+    },
+    "OP06-110": {
+        "description": "Unknown",
+        "price_chf": 4.0,
+        "quantity": 2
+    },
+    "OP06-111": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 2
+    },
+    "OP06-112": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP06-113": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP06-114": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP06-115": {
+        "description": "Unknown",
+        "price_chf": 4.0,
+        "quantity": 1
+    },
+    "OP06-117": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP07-001": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP07-002": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP07-003": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-004": {
+        "description": "Unknown",
+        "price_chf": 1.0,
         "quantity": 5
     },
-    "Op07-118": {
+    "OP07-005": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.5,
+        "quantity": 3
     },
-    "Op07-119": {
+    "OP07-006": {
         "description": "Unknown",
-        "quantity": 0
+        "price_chf": 1.3,
+        "quantity": 3
+    },
+    "OP07-007": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP07-008": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-009": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 4
+    },
+    "OP07-010": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-011": {
+        "description": "Unknown",
+        "price_chf": 1.9,
+        "quantity": 4
+    },
+    "OP07-012": {
+        "description": "Unknown",
+        "price_chf": 1.9,
+        "quantity": 4
+    },
+    "OP07-013": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-014": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-015": {
+        "description": "Unknown",
+        "price_chf": 5.0,
+        "quantity": 1
+    },
+    "OP07-016": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-017": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-018": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-019": {
+        "description": "Unknown",
+        "price_chf": 3.5,
+        "quantity": 2
+    },
+    "OP07-020": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 3
+    },
+    "OP07-021": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 6
+    },
+    "OP07-022": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP07-023": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-024": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-025": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-026": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-027": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 4
+    },
+    "OP07-028": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-029": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-030": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-031": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-032": {
+        "description": "Unknown",
+        "price_chf": 1.45,
+        "quantity": 5
+    },
+    "OP07-033": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP07-034": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-035": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-036": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 3
+    },
+    "OP07-037": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP07-038": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP07-039": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-040": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 1
+    },
+    "OP07-041": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-042": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-043": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-044": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP07-045": {
+        "description": "Unknown",
+        "price_chf": 12.0,
+        "quantity": 1
+    },
+    "OP07-046": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-047": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 3
+    },
+    "OP07-048": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-049": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-050": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-051": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-052": {
+        "description": "Unknown",
+        "price_chf": 1.9,
+        "quantity": 4
+    },
+    "OP07-053": {
+        "description": "Unknown",
+        "price_chf": 1.8,
+        "quantity": 4
+    },
+    "OP07-054": {
+        "description": "Unknown",
+        "price_chf": 1.8,
+        "quantity": 5
+    },
+    "OP07-055": {
+        "description": "Unknown",
+        "price_chf": 1.8,
+        "quantity": 4
+    },
+    "OP07-056": {
+        "description": "Unknown",
+        "price_chf": 3.0,
+        "quantity": 2
+    },
+    "OP07-057": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-058": {
+        "description": "Unknown",
+        "price_chf": 1.8,
+        "quantity": 5
+    },
+    "OP07-059": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-060": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-061": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-062": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-063": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP07-065": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-066": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-067": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-068": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-069": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-070": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-071": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-072": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-073": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 5
+    },
+    "OP07-074": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-075": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-076": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-077": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-078": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-079": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-080": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-081": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-082": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 2
+    },
+    "OP07-083": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 1
+    },
+    "OP07-084": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 4
+    },
+    "OP07-086": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-087": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 4
+    },
+    "OP07-088": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 2
+    },
+    "OP07-089": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 4
+    },
+    "OP07-090": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 4
+    },
+    "OP07-091": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 3
+    },
+    "OP07-092": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 3
+    },
+    "OP07-093": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-094": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP07-095": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 4
+    },
+    "OP07-096": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-097": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-098": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 1
+    },
+    "OP07-099": {
+        "description": "Unknown",
+        "price_chf": 4.0,
+        "quantity": 4
+    },
+    "OP07-100": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP07-101": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP07-102": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-103": {
+        "description": "Unknown",
+        "price_chf": 1.3,
+        "quantity": 4
+    },
+    "OP07-104": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 2
+    },
+    "OP07-105": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 3
+    },
+    "OP07-106": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 3
+    },
+    "OP07-107": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 3
+    },
+    "OP07-108": {
+        "description": "Unknown",
+        "price_chf": 2.0,
+        "quantity": 4
+    },
+    "OP07-109": {
+        "description": "Unknown",
+        "price_chf": 8.0,
+        "quantity": 1
+    },
+    "OP07-110": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-112": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-113": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 3
+    },
+    "OP07-114": {
+        "description": "Unknown",
+        "price_chf": 2.5,
+        "quantity": 1
+    },
+    "OP07-115": {
+        "description": "Unknown",
+        "price_chf": 1.0,
+        "quantity": 4
+    },
+    "OP07-116": {
+        "description": "Unknown",
+        "price_chf": 1.5,
+        "quantity": 4
+    },
+    "OP07-117": {
+        "description": "Unknown",
+        "price_chf": 1.4,
+        "quantity": 5
+    },
+    "OP07-118": {
+        "description": "Unknown",
+        "price_chf": 15.0,
+        "quantity": 1
     }
 }
