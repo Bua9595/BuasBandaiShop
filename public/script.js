@@ -12,8 +12,6 @@
         const panel = document.createElement('div');
         panel.className = 'menu-panel';
         panel.innerHTML = `
-            <a href="profil.html">Profil</a>
-            <a href="bestellungen.html">Bestellungen</a>
             <a href="hilfe.html">Hilfe</a>
             <a href="support.html">Support</a>
         `;
@@ -401,7 +399,7 @@
             const tickets = storage.get('supportTickets', []);
             tickets.push({ email, subject: decodeURIComponent(subject), message: decodeURIComponent(message), createdAt: Date.now() });
             storage.set('supportTickets', tickets);
-            window.location.href = `mailto:support@example.com?subject=${subject}&body=${message}%0D%0A%0D%0AAbsender:%20${encodeURIComponent(email)}`;
+            window.location.href = `mailto:bujupi9595@hotmail.de?subject=${subject}&body=${message}%0D%0A%0D%0AAbsender:%20${encodeURIComponent(email)}`;
             if (status) { status.textContent = 'Anfrage vorbereitet (E-Mail wird geÃ¶ffnet).'; setTimeout(() => status.textContent = '', 3000); }
             supportForm.reset();
         });
