@@ -1700,6 +1700,116 @@
         "type": "Stage"
     },
     {
+        "id": "OP03-101",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-102",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-103",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-104",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-105",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-106",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-107",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-108",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-109",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-110",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-111",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-112",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-113",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-114",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-115",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-116",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-117",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-118",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-119",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-120",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-121",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP03-123",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
         "id": "OP04-001",
         "name": "Monkey D. Luffy",
         "type": "Leader"
@@ -2695,9 +2805,44 @@
         "type": "Character"
     },
     {
+        "id": "OP05-082",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-083",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-084",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
         "id": "OP05-085",
         "name": "Bepo",
         "type": "Character"
+    },
+    {
+        "id": "OP05-086",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-087",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-088",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-089",
+        "name": "Unknown",
+        "type": "Unknown"
     },
     {
         "id": "OP05-090",
@@ -2705,9 +2850,89 @@
         "type": "Character"
     },
     {
+        "id": "OP05-091",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-094",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-095",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-096",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-097",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-098",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-099",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
         "id": "OP05-100",
         "name": "Chopper",
         "type": "Character"
+    },
+    {
+        "id": "OP05-101",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-102",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-103",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-104",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-105",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-106",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-107",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-108",
+        "name": "Unknown",
+        "type": "Unknown"
+    },
+    {
+        "id": "OP05-109",
+        "name": "Unknown",
+        "type": "Unknown"
     },
     {
         "id": "OP05-110",

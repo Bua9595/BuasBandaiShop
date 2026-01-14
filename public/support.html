@@ -28,18 +28,20 @@
     <main class="main-content">
         <h1>Support</h1>
         <section class="form-card">
-            <form id="support-form">
+            <form id="support-form" action="https://formsubmit.co/bujupi9595@hotmail.de" method="POST">
+                <input type="hidden" name="_subject" value="BuasBandaiShop Support Anfrage" />
+                <input type="hidden" name="_next" value="https://bua9595.github.io/BuasBandaiShop/support.html?sent=1" />
                 <div class="form-row">
                     <label for="support-email">E-Mail</label>
-                    <input type="email" id="support-email" required />
+                    <input type="email" id="support-email" name="email" required />
                 </div>
                 <div class="form-row">
                     <label for="support-subject">Betreff</label>
-                    <input type="text" id="support-subject" required />
+                    <input type="text" id="support-subject" name="subject" required />
                 </div>
                 <div class="form-row">
                     <label for="support-message">Nachricht</label>
-                    <textarea id="support-message" rows="6" required></textarea>
+                    <textarea id="support-message" name="message" rows="6" required></textarea>
                 </div>
                 <div class="form-actions">
                     <button type="submit" class="btn primary">Anfrage senden</button>

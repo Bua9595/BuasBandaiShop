@@ -387,22 +387,15 @@
         ordersEl.innerHTML = html;
     }
 
-    // Support-Formular
+    // Support-Formular (Server-Submit)
     const supportForm = document.getElementById('support-form');
     if (supportForm) {
         const status = document.getElementById('support-status');
-        supportForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            const email = document.getElementById('support-email').value.trim();
-            const subject = encodeURIComponent(document.getElementById('support-subject').value.trim());
-            const message = encodeURIComponent(document.getElementById('support-message').value.trim());
-            const tickets = storage.get('supportTickets', []);
-            tickets.push({ email, subject: decodeURIComponent(subject), message: decodeURIComponent(message), createdAt: Date.now() });
-            storage.set('supportTickets', tickets);
-            window.location.href = `mailto:bujupi9595@hotmail.de?subject=${subject}&body=${message}%0D%0A%0D%0AAbsender:%20${encodeURIComponent(email)}`;
-            if (status) { status.textContent = 'Anfrage vorbereitet (E-Mail wird geÃ¶ffnet).'; setTimeout(() => status.textContent = '', 3000); }
-            supportForm.reset();
-        });
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('sent') === '1' && status) {
+            status.textContent = 'Danke! Deine Nachricht wurde gesendet.';
+            setTimeout(() => { status.textContent = ''; }, 4000);
+        }
     }
 });
 
