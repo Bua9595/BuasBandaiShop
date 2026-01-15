@@ -202,10 +202,17 @@
         });
 
     // Search function (ID-only)
+    function setSearchResultsVisible(isVisible) {
+        if (!searchResults) return;
+        searchResults.classList.toggle('has-results', isVisible);
+        document.body.classList.toggle('search-open', isVisible);
+    }
+
     function searchCards(query) {
         if (!query) {
             searchResults.innerHTML = '';
             highlightCards('');
+            setSearchResultsVisible(false);
             return;
         }
         const q = query.trim().toLowerCase();
@@ -222,6 +229,7 @@
             results = cardsData.filter(card => card.id.endsWith(`-${number}`));
         } else {
             searchResults.innerHTML = '<p>Bitte Kartennummer eingeben (z.B. 123 oder OP01-123).</p>';
+            setSearchResultsVisible(true);
             return;
         }
 
@@ -233,6 +241,7 @@
     function displayResults(results, mode = 'exact') {
         if (results.length === 0) {
             searchResults.innerHTML = '<p>No cards found.</p>';
+            setSearchResultsVisible(true);
             return;
         }
         if (mode === 'number') {
@@ -264,6 +273,7 @@
             }).join('');
             searchResults.innerHTML = html;
         }
+        setSearchResultsVisible(true);
     }
 
     // Highlight matching cards on current page based on alt attribute

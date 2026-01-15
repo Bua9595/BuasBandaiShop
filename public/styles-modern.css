@@ -375,16 +375,38 @@ header h1 {
 }
 
 .navbar #search-results {
-    position: absolute;
-    top: calc(100% + 6px);
-    left: 0;
-    right: 0;
+    position: fixed;
+    top: var(--navbar-height);
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(1200px, calc(100% - 2rem));
     max-height: 45vh;
+    z-index: 1400;
+    display: none;
+}
+
+.navbar #search-results.has-results {
+    display: block;
     background: rgba(20, 20, 20, 0.98);
     border: 1px solid rgba(240, 151, 9, 0.4);
     border-radius: 10px;
     padding: 10px;
-    z-index: 1400;
+}
+
+.navbar #search-results .search-grid {
+    grid-template-columns: repeat(7, minmax(84px, 1fr));
+}
+
+@media (max-width: 900px) {
+    .navbar #search-results .search-grid {
+        grid-template-columns: repeat(4, minmax(84px, 1fr));
+    }
+}
+
+@media (max-width: 600px) {
+    .navbar #search-results .search-grid {
+        grid-template-columns: repeat(3, minmax(84px, 1fr));
+    }
 }
 
 /* Desktop: compact searchbar inline between last nav link and burger */
