@@ -210,14 +210,14 @@
         }
         const q = query.trim().toLowerCase();
         const exact = q.match(/^(?:op)?(\d{2})-(\d{3})$/i);
-        const onlyNum = q.match(/^(\d{3})$/);
+        const onlyNum = q.match(/^(\d{2}|\d{3})$/);
 
         let results = [];
         if (exact) {
             const id = `OP${exact[1]}-${exact[2]}`;
             results = cardsData.filter(card => card.id.toLowerCase() === id.toLowerCase());
         } else if (onlyNum) {
-            const number = onlyNum[1];
+            const number = onlyNum[1].padStart(3, '0');
             // Only show cards that actually exist in karten.json
             results = cardsData.filter(card => card.id.endsWith(`-${number}`));
         } else {
@@ -226,7 +226,7 @@
         }
 
         displayResults(results, onlyNum ? 'number' : 'exact');
-        if (onlyNum) highlightCards(onlyNum[1]);
+        if (onlyNum) highlightCards(onlyNum[1].padStart(3, '0'));
     }
 
     // Display search results
@@ -304,6 +304,7 @@
                 const value = e.target.value;
                 const q = value ? value.trim().toLowerCase() : '';
                 const exact = q.match(/^(?:op)?(\d{2})-(\d{3})$/i);
+                const onlyNum = q.match(/^(\d{2}|\d{3})$/);
                 if (exact) {
                     const id = `OP${exact[1]}-${exact[2]}`;
                     const [collection, numStr] = id.split('-');
@@ -312,6 +313,9 @@
                     const collectionLower = collection.toLowerCase();
                     const url = pageNum === 1 ? `karten-${collectionLower}.html#${id}` : `karten-${collectionLower}-seite${pageNum}.html#${id}`;
                     window.location.href = url;
+                } else if (onlyNum) {
+                    const number = onlyNum[1].padStart(3, '0');
+                    searchCards(number);
                 } else {
                     searchCards(e.target.value);
                 }
