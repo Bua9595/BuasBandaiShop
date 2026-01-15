@@ -334,6 +334,7 @@ header h1 {
     width: 100%;
     max-width: 800px;
     margin: 0 auto 20px;
+    position: relative;
 }
 
 #search-container input#card-search-input {
@@ -342,12 +343,48 @@ header h1 {
     font-size: 16px !important;
 }
 
+#search-results {
+    width: 100%;
+    max-height: 50vh;
+    overflow-y: auto;
+    margin-top: 8px;
+}
+
+#search-results .search-grid {
+    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+}
+
+#search-results .search-grid .card {
+    width: 96px;
+}
+
+#search-results .search-result a {
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid rgba(240, 151, 9, 0.4);
+    color: var(--text-color);
+}
+
 /* When searchbar is inside navbar */
 .navbar #search-container {
     /* default (mobile/tablet): full width on own row */
     flex: 1 0 100%;
     order: 99;
     margin: 8px auto 0;
+}
+
+.navbar #search-results {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    right: 0;
+    max-height: 45vh;
+    background: rgba(20, 20, 20, 0.98);
+    border: 1px solid rgba(240, 151, 9, 0.4);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 1400;
 }
 
 /* Desktop: compact searchbar inline between last nav link and burger */

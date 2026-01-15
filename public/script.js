@@ -210,7 +210,7 @@
         }
         const q = query.trim().toLowerCase();
         const exact = q.match(/^(?:op)?(\d{2})-(\d{3})$/i);
-        const onlyNum = q.match(/^(\d{2}|\d{3})$/);
+        const onlyNum = q.match(/^(\d{1}|\d{2}|\d{3})$/);
 
         let results = [];
         if (exact) {
@@ -304,7 +304,7 @@
                 const value = e.target.value;
                 const q = value ? value.trim().toLowerCase() : '';
                 const exact = q.match(/^(?:op)?(\d{2})-(\d{3})$/i);
-                const onlyNum = q.match(/^(\d{2}|\d{3})$/);
+                const onlyNum = q.match(/^(\d{1}|\d{2}|\d{3})$/);
                 if (exact) {
                     const id = `OP${exact[1]}-${exact[2]}`;
                     const [collection, numStr] = id.split('-');
