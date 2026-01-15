@@ -2,19 +2,50 @@
     // Add burger menu to navbar (top-right)
     const navbar = document.querySelector('.navbar');
     if (navbar && !navbar.querySelector('.burger')) {
+        const navLinks = navbar.querySelector('.nav-links');
         const burger = document.createElement('button');
         burger.className = 'burger';
-        burger.setAttribute('aria-label', 'MenÃ¼');
+        burger.setAttribute('aria-label', 'Menu');
         burger.setAttribute('aria-expanded', 'false');
         burger.type = 'button';
-        burger.textContent = ' CHF˜°';
+        burger.textContent = 'Menu';
 
         const panel = document.createElement('div');
         panel.className = 'menu-panel';
-        panel.innerHTML = `
+
+        const menuLinks = document.createElement('div');
+        menuLinks.className = 'menu-links';
+
+        if (navLinks) {
+            const anchors = Array.from(navLinks.querySelectorAll('a'))
+                .filter((a) => !a.classList.contains('logo'));
+            anchors.forEach((a) => {
+                const link = document.createElement('a');
+                link.href = a.getAttribute('href') || '#';
+                link.textContent = (a.textContent || '').trim() || link.href;
+                menuLinks.appendChild(link);
+            });
+        }
+
+        const menuAccount = document.createElement('div');
+        menuAccount.className = 'menu-links';
+        menuAccount.innerHTML = `
             <a href="hilfe.html">Hilfe</a>
             <a href="support.html">Support</a>
         `;
+
+        const navSearch = navLinks ? navLinks.querySelector('#search-container') : null;
+        const navSearchParent = navSearch ? navSearch.parentElement : null;
+        let menuSearch = null;
+
+        if (navSearch) {
+            menuSearch = document.createElement('div');
+            menuSearch.className = 'menu-search';
+            panel.appendChild(menuSearch);
+        }
+
+        panel.appendChild(menuLinks);
+        panel.appendChild(menuAccount);
 
         navbar.appendChild(burger);
         try { burger.textContent = String.fromCharCode(9776); } catch (e) { }
@@ -25,11 +56,30 @@
             burger.setAttribute('aria-expanded', 'false');
         }
 
+        function syncMenuLayout() {
+            const isMobile = window.matchMedia('(max-width: 768px)').matches;
+            if (navSearch && navSearchParent && menuSearch) {
+                if (isMobile && navSearch.parentElement !== menuSearch) {
+                    menuSearch.appendChild(navSearch);
+                }
+                if (!isMobile && navSearch.parentElement !== navSearchParent) {
+                    navSearchParent.appendChild(navSearch);
+                }
+            }
+            if (!isMobile) closePanel();
+        }
+
+        syncMenuLayout();
+        window.addEventListener('resize', syncMenuLayout);
+
         burger.addEventListener('click', (e) => {
             e.stopPropagation();
             const willOpen = !panel.classList.contains('open');
             panel.classList.toggle('open');
             burger.setAttribute('aria-expanded', String(willOpen));
+        });
+        panel.addEventListener('click', (e) => {
+            if (e.target.tagName === 'A') closePanel();
         });
         document.addEventListener('click', (e) => {
             if (!panel.contains(e.target) && e.target !== burger) closePanel();
