@@ -438,9 +438,11 @@ header h1 {
     position: fixed;
     top: 50%;
     left: 50%;
-    width: 300px;
+    width: auto;
     height: auto;
-    transform: translate(-50%, -50%) scale(1.8);
+    max-width: 95vw;
+    max-height: 90vh;
+    transform: translate(-50%, -50%);
     z-index: 10000;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
@@ -448,6 +450,12 @@ header h1 {
     padding: 1px 0px;
 }
 
+.card.expanded img {
+    width: 100%;
+    height: auto;
+    max-height: 90vh;
+    object-fit: contain;
+}
 /* Overlay for enlarged cards */
 #card-overlay.hidden {
     display: none;
@@ -456,7 +464,7 @@ header h1 {
 #card-overlay {
     position: fixed;
     inset: 0;
-    z-index: 9999;
+    z-index: 10001;
     /* below the expanded card so the card stays visible */
 }
 
