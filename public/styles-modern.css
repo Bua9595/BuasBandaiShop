@@ -438,10 +438,10 @@ header h1 {
     position: fixed;
     top: 50%;
     left: 50%;
-    width: auto;
+    width: clamp(260px, 86vw, 520px);
     height: auto;
-    max-width: 95vw;
-    max-height: 90vh;
+    max-width: 92vw;
+    max-height: 92vh;
     transform: translate(-50%, -50%);
     z-index: 10000;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
@@ -453,7 +453,8 @@ header h1 {
 .card.expanded img {
     width: 100%;
     height: auto;
-    max-height: 90vh;
+    max-width: 92vw;
+    max-height: 92vh;
     object-fit: contain;
 }
 /* Overlay for enlarged cards */
@@ -464,7 +465,7 @@ header h1 {
 #card-overlay {
     position: fixed;
     inset: 0;
-    z-index: 10001;
+    z-index: 9999;
     /* below the expanded card so the card stays visible */
 }
 
@@ -474,7 +475,23 @@ header h1 {
     background: rgba(0, 0, 0, 0.65);
 }
 
-#card-overlay .overlay-close {
+#card-controls {
+    position: fixed;
+    inset: 0;
+    z-index: 10001;
+    pointer-events: none;
+}
+
+#card-controls.hidden {
+    display: none;
+}
+
+#card-controls .overlay-close,
+#card-controls .overlay-nav {
+    pointer-events: auto;
+}
+
+#card-controls .overlay-close {
     position: absolute;
     top: 16px;
     right: 16px;
@@ -488,7 +505,7 @@ header h1 {
     cursor: pointer;
 }
 
-#card-overlay .overlay-nav {
+#card-controls .overlay-nav {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -502,11 +519,11 @@ header h1 {
     cursor: pointer;
 }
 
-#card-overlay .overlay-prev {
+#card-controls .overlay-prev {
     left: 16px;
 }
 
-#card-overlay .overlay-next {
+#card-controls .overlay-next {
     right: 16px;
 }
 

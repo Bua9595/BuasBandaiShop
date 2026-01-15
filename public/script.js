@@ -97,16 +97,23 @@
     overlay.className = 'hidden';
     overlay.innerHTML = `
         <div class="overlay-backdrop"></div>
-        <button class="overlay-close" aria-label="SchlieÃŸen">Ã—</button>
-        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte">‹</button>
-        <button class="overlay-nav overlay-next" aria-label="NÃ¤chste Karte">›</button>
     `;
     document.body.appendChild(overlay);
 
+    const controls = document.createElement('div');
+    controls.id = 'card-controls';
+    controls.className = 'hidden';
+    controls.innerHTML = `
+        <button class="overlay-close" aria-label="Schliessen">x</button>
+        <button class="overlay-nav overlay-prev" aria-label="Vorherige Karte"><</button>
+        <button class="overlay-nav overlay-next" aria-label="Naechste Karte">></button>
+    `;
+    document.body.appendChild(controls);
+
     const overlayBackdrop = overlay.querySelector('.overlay-backdrop');
-    const btnClose = overlay.querySelector('.overlay-close');
-    const btnPrev = overlay.querySelector('.overlay-prev');
-    const btnNext = overlay.querySelector('.overlay-next');
+    const btnClose = controls.querySelector('.overlay-close');
+    const btnPrev = controls.querySelector('.overlay-prev');
+    const btnNext = controls.querySelector('.overlay-next');
     try {
         btnClose.textContent = String.fromCharCode(215);
         btnPrev.textContent = String.fromCharCode(8249);
@@ -130,6 +137,7 @@
         const card = pageCards[currentExpandedIndex];
         card.classList.add('expanded');
         overlay.classList.remove('hidden');
+        controls.classList.remove('hidden');
         updateNavButtons();
         const img = card.querySelector('img');
         if (img) img.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -147,6 +155,7 @@
 
     function closeOverlay() {
         overlay.classList.add('hidden');
+        controls.classList.add('hidden');
         currentExpandedIndex = -1;
         closeExpanded();
     }
